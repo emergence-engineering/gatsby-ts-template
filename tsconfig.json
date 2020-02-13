@@ -18,7 +18,7 @@
     "isolatedModules": true
   },
   "include": [
-    "pages",
-    "type-declarations/*"
+    "src/pages",
+    "src/types/*"
   ]
 }
