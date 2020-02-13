@@ -7,12 +7,19 @@ This project is based on Emergence Engineering [ client-base ](https://gitlab.co
 ## Features
 
 ✅ TypeScript
+
 ✅ Gatsby
+
 ✅ GraphQL
+
 ✅ ESLint 
+
 ✅ React 
+
 ✅ Redux
+
 ✅ StyledComponents
+
 
 ## Help with Gatsby
 
